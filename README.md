@@ -6,7 +6,11 @@ This small [Dash](https://plot.ly/dash/open-source/) app lets you dynamically vi
 
 ## Usage
 
-Make sure you have Python 3.6+ installed. First, clone and enter the repo.
+Make sure you have Python 3.6+ installed. First, clone and enter the repo:
+```
+git clone https://github.com/leotappe/distributions.git
+cd distributions
+```
 Then, create a virtual environment and install the dependencies:
 ```
 python3 -m venv .venv
